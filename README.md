@@ -105,7 +105,7 @@ I'm a Computer Science student (Bsc.CS, Gujarat University · Msc.IT, DAIICT) wo
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=parinbajayebin&theme=radical&hide_border=true" />
-
+<br/>
 <img src="https://komarev.com/ghpvc/?username=parinbajayebin&label=Profile%20Views&color=f2a65a&style=for-the-badge" />
 
 </div>
