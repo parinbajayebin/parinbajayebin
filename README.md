@@ -35,7 +35,7 @@
 
 ## 👋 About Me
 
-I'm a Computer Science student (BCS, Gujarat University · MIT, DAIICT) working as a **Backend & AI Engineer**. I started with full-stack fundamentals in PHP/MySQL, and now build production-grade systems around **FastAPI, Retrieval-Augmented Generation, and Large Language Models**.
+I'm a Computer Science student (Bsc.CS, Gujarat University · Msc.IT, DAIICT) working as a **Backend & AI Engineer**. I started with full-stack fundamentals in PHP/MySQL, and now build production-grade systems around **FastAPI, Retrieval-Augmented Generation, and Large Language Models**.
 
 - 🔭 Currently building AI-powered platforms — RAG chatbots, mock interview systems, and research tools
 - 🌱 Leveling up in Agentic AI, LangChain, and distributed system design
@@ -104,12 +104,7 @@ I'm a Computer Science student (BCS, Gujarat University · MIT, DAIICT) working 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=parinbajayebin&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parinbajayebin&layout=compact&theme=radical&hide_border=true" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=parinbajayebin&theme=radical&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=parinbajayebin&theme=radical&no-frame=true&row=1&column=6" />
 
 <img src="https://komarev.com/ghpvc/?username=parinbajayebin&label=Profile%20Views&color=f2a65a&style=for-the-badge" />
 
